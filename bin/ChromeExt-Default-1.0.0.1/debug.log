@@ -1,0 +1,35 @@
+[0707/145035.768:ERROR:url_request_context_getter_impl.cc(129)] Cannot use V8 Proxy resolver in single process mode.
+[0707/145035.814:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145035.815:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[0707/145035.831:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145106.853:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145107.313:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145107.734:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145107.766:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0707/145107.766:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0707/145108.421:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145108.422:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145108.918:ERROR:BudgetService.cpp(160)] Unable to connect to the Mojo BudgetService.
+[0707/145108.968:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0707/145108.974:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145108.978:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0707/145110.417:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: no supported streams"}
+[0707/145110.470:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_NO_SUPPORTED_STREAMS
+[0707/145136.939:ERROR:quota_settings.cc(109)] Unable to compute QuotaSettings.
+[0707/145141.672:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145141.673:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145142.259:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145142.259:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145142.260:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145142.261:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145142.366:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145157.591:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145157.658:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145157.934:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145213.192:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145213.193:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145254.631:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/145254.632:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/150346.874:ERROR:gles2_command_buffer_stub.cc(128)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[0707/150556.677:ERROR:browser_host_impl.cc(1666)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 127.0.0.1:80
+[0707/152136.990:ERROR:quota_settings.cc(109)] Unable to compute QuotaSettings.

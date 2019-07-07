@@ -1,0 +1,30 @@
+<html>
+<head>
+<script language="JavaScript">
+
+function this_function_triggered_from_gm(set_text) {
+    document.getElementById("output").innerHTML = set_text;
+}
+
+function transfer_data_to_gm() {
+    var test_obj = {"browser": navigator.userAgent, "path": window.location.pathname};
+    window.transfer(JSON.stringify(test_obj));
+}
+
+</script>
+
+</script>
+</head>
+<body>
+GM_chromium test page: <br />
+- <a href="https://www.google.com">https://www.google.com</a><br />
+- <a href="https://www.youtube.com">https://www.youtube.com</a><br />
+- <a href="https://meseta.itch.io/gm-chromium">https://meseta.itch.io/gm-chromium</a><br />
+<br />
+v1.2BETA EXPERIMENTAL FEATURES: <br />
+- Press F10 to view page source. <br />
+- Press F6 to transfer some data from GM to this page: Data recieved <span id="output">(none)</span> <br />
+- <a href="javascript: transfer_data_to_gm();">Click here to send some data to GM</a><br/>
+<br />
+</body>
+</html>
